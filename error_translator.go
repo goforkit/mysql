@@ -3,7 +3,7 @@ package mysql
 import (
 	"github.com/go-sql-driver/mysql"
 
-	"gorm.io/gorm"
+	"github.com/goforkit/gorm"
 )
 
 // The error codes to map mysql errors to gorm errors, here is the mysql error codes reference https://dev.mysql.com/doc/mysql-errors/8.0/en/server-error-reference.html.

@@ -12,13 +12,13 @@ import (
 
 	"github.com/go-sql-driver/mysql"
 
-	"gorm.io/gorm"
-	"gorm.io/gorm/callbacks"
-	"gorm.io/gorm/clause"
-	"gorm.io/gorm/logger"
-	"gorm.io/gorm/migrator"
-	"gorm.io/gorm/schema"
-	"gorm.io/gorm/utils"
+	"github.com/goforkit/gorm"
+	"github.com/goforkit/gorm/callbacks"
+	"github.com/goforkit/gorm/clause"
+	"github.com/goforkit/gorm/logger"
+	"github.com/goforkit/gorm/migrator"
+	"github.com/goforkit/gorm/schema"
+	"github.com/goforkit/gorm/utils"
 )
 
 const (
